@@ -1,0 +1,11 @@
+git config --global user.name "aditya"
+git config --global user.email "mail4adityamehra@gmail.com"
+git init
+git remote add origin https://github.com/MehraAditya/Week1-DSA-CipherSchools/
+git add .
+git commit -m"v2: added signup feature"
+git push -u origin master
+git log
+git checkout
+
+
